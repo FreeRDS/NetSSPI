@@ -1,0 +1,3 @@
+EXPORTS
+	InitSecurityInterfaceW		@1
+	InitSecurityInterfaceA		@2
